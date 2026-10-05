@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vaghelahimanshu3860-arch.github.io/Himanshu-Digital-Sanosara/sitemap.xml
